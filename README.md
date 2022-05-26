@@ -4,7 +4,7 @@
  - install dependencies `npm i` (axios, moment, dotenv)
  - Create a .env file based on the template: `cp .env-template .env`
  - Add your Codeship username/password in the .env file.
- - Add the orgName in kebab case & lowercase format. Ex: `Sage One Global Docker` -> `sage-one-global-docker`
+ - Add the orgName in kebab case & lowercase format. Ex: Lorem Ipsum Dolor Sit` -> `lorem-ipsum-dolor-sit`
  - Add the Project ID (you'll find it in the url of the project page) eg: `https://app.codeship.com/projects/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXX` -> `XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXX`
  - Add the duration in months for which to fetch builds. eg `6`
  - Run the script and wait for the output: `npm run start`
