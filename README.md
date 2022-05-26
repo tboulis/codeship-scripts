@@ -8,3 +8,7 @@
  - Add the Project ID (you'll find it in the url of the project page) eg: `https://app.codeship.com/projects/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXX` -> `XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXX`
  - Add the duration in months for which to fetch builds. eg `6`
  - Run the script and wait for the output: `npm run start`
+
+---
+#### Note:
+Feel free to use it and suggest improvements
